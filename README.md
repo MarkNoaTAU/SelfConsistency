@@ -1,5 +1,5 @@
 # SelfConsistency
-This library contain research code for evaluating and mitigating hallucination in LLMs.  
+This library contains research code for evaluating and mitigating hallucination in LLMs.  
 This research project was done as a final project for Natural Language Processing (NLP) course in TLV univesity by Maor Ivgi.
 
 Researchers: Noa Mark and Yarden Frnakel. 
